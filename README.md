@@ -4,5 +4,5 @@ Works on Level 3 Executors.
 Made by bxnnie.
 
 ```lua
-loadstring(game:HttpGet("raw.githubusercontent.com/BonnieRBLX/MM2Autofarm/main/main.luau"))("BonnieRBLX")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BonnieRBLX/MM2Autofarm/main/main.luau"))("BonnieRBLX")
 ```
